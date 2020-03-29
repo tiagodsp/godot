@@ -1,0 +1,4 @@
+[submodule "modules/rml"]
+	path = modules/rml
+	url = https://github.com/tiagodsp/godot-runtime-mesh-loader-module.git
+	branch = dev
